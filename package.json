@@ -1,7 +1,7 @@
 {
   "name": "react-template-with-webpack",
   "version": "0.0.1",
-  "description": "Pagina web de novelasanime",
+  "description": "Pagina web",
   "main": "index.js",
   "scripts": {
     "start": "webpack s",
